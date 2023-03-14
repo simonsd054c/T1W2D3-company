@@ -67,6 +67,9 @@ Home page, for now, just displays some lorem ipsum text. Here is the code that w
 </main>
 ```
 
+### Services
+Servies page displays the list of services that we provide.
+
 ## Styling
 
 ### Components
